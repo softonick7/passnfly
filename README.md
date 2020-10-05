@@ -9,7 +9,7 @@ _Follow this steps to install this project and its dependencies._
 Remember that this project is in the **Deployment** enviroment.
 
 
-### Pre-requisitos 📋
+### Pre-requirements 📋
 
 _Configure the docker container_
 
@@ -19,9 +19,6 @@ DOCKER
 
 ### Project setup 🔧
 
-_Una serie de ejemplos paso a paso que te dice lo que debes ejecutar para tener un entorno de desarrollo ejecutandose_
-
-## Project setup
 ```
 yarn install
 ```
@@ -50,11 +47,11 @@ yarn run test
 yarn run lint
 ```
 
-## Despliegue 📦
+## Deployment 📦
 
 _Currently deployment not available_
 
-## Construido con 🛠️
+## Build with 🛠️
 
 
 
@@ -71,6 +68,6 @@ _Currently deployment not available_
 * **Sofian Azouache** - *Developer* - [softonick7](https://github.com/softonick7)
 
 
-## Licencia 📄
+## Licency 📄
 
 Este proyecto está bajo la Licencia (GNU) - mira el archivo [LICENSE.md](LICENSE.md) para detalles
